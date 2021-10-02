@@ -1,2 +1,2 @@
 # calculate-pi
-calculates pi infinitely
+calculates pi infinitely, if you leave it running infinitely
